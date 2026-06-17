@@ -1,0 +1,19 @@
+# DEPENDENCIAS Y COMPILACIÓN (REACT/VITE)
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Archivos específicos de IntelliJ que se colaron en el front
+.idea/
+*.iml
+
+# Logs de error de empaquetadores
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Sistema
+.DS_Store
+Thumbs.db
