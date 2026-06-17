@@ -19,9 +19,10 @@ Esta es la interfaz de usuario para el sistema de gestión de inventario de hard
    ```
 (O usa npm install si no tienes pnpm configurado).
 
-2. **Levantar Servidor de Desarrollo**:\
-Bash\
-pnpm dev
+2. **Levantar Servidor de Desarrollo**:
+```bash
+   pnpm dev
+   ```
 
 Acceder a la Aplicación:
 Abre tu navegador en: http://localhost:5173
